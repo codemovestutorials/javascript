@@ -1,3 +1,3 @@
 
-# JavaScript Tutorial - Code Samples
+# Code Moves JavaScript Tutorials - Code Samples
 
