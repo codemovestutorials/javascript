@@ -1,5 +1,5 @@
 #
-# Code Moves - Function Expressions 1
+# Code Moves - Function Expressions - sample code 1
 #
 
 let myArea = function(x, y) {
